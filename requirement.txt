@@ -1,0 +1,4 @@
+cacheout==0.13.1
+Click==7.0
+taospy==2.1.2
+typing==3.7.4.3
