@@ -14,12 +14,11 @@ setup(
         'typing>=3.7.4.3',
     ],
     version='0.0.1',
-    url='https://gitee.com/summry/taostd/taostd',
+    url='https://github.com/nzhzds/taostd',
     author='summry',
     author_email='xiazhongbiao@126.com',
     keywords=['sql', 'taos', 'TDengine', 'Time Series Database', 'python'],
     tests_require=[
-        'pytest',
         'pandas'
     ],
     package_data={
